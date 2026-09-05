@@ -174,7 +174,7 @@ cannot.
 | **Total (Las Vegas `search`)** | **$O(n+m)$ expected, $O(nm)$ worst case** |
 | **`probablyEqual`** | $O(m)$, with the error bound of §5 |
 
-## 7. Implementation and tests
+## 7. Implementations and tests
 
 `RabinKarp.java` implements exactly the algorithm derived above:
 
